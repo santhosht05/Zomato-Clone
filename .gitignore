@@ -1,0 +1,9 @@
+/target/
+/tomcat-setup/
+*.class
+.project
+.classpath
+.settings/
+.idea/
+*.iml
+*.log
